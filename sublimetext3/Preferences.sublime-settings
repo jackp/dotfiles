@@ -1,0 +1,26 @@
+{
+	"atomic_save": false,
+	"auto_complete_commit_on_tab": true,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 16,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"tree_animation_enabled": false,
+	"trim_trailing_white_space_on_save": true
+}

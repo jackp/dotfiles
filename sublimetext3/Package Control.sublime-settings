@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoSublime",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Package Control",
+		"SideBarEnhancements",
+		"Theme - Spacegray",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
